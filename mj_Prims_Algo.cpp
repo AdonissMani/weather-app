@@ -32,6 +32,8 @@ void prims()
             cost[i][j] = am[i][j];
 
             spanning[i][j] = 0;
+            
+            
         }
     }
 
