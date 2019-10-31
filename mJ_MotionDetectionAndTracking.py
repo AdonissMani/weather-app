@@ -23,6 +23,9 @@ ret, frame2 = cap.read()
 #cv2.imshow('dilated',dilated)
 
 
+
+
+
 print(frame1.shape)
 while cap.isOpened():
     diff = cv2.absdiff(frame1, frame2)
