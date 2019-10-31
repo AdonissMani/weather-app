@@ -4,6 +4,9 @@ import numpy as np
 cap = cv2.VideoCapture(0)
 #cap = cv2.VideoCapture('vtest.avi')
 
+
+
+
 ret, frame1 = cap.read()
 ret, frame2 = cap.read()
 
