@@ -14,6 +14,7 @@ void toposort()
             cin>>am[i][j];
         }
     }
+    
 
 
 // initialization;
